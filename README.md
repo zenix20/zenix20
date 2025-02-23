@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Zainab Qureshi!  
 
-<!--
-**zenix20/zenix20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Cybersecurity Enthusiast | CTF Player | Ethical Hacking Learner  
 
-Here are some ideas to get you started:
+🔹 Passionate about **penetration testing, digital forensics, and network security**  
+🔹 Hands-on experience in **CTF challenges, ethical hacking, and vulnerability assessments**  
+🔹 **Freelance blog writer** on **AI & cybersecurity topics**  
+🔹 Currently exploring **advanced pentesting techniques**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 **Education**  
+🎓 **Bachelor of Science in Cyber Security (BsCyS)** – COMSATS University Islamabad (2022-2026)  
+
+---
+
+## 🏆 **Prominent Professional Certifications**
+📜 **Cybersecurity & Privacy – Microsoft (Coursera)** *(Jan 2025)*  
+📜 **Jr. Penetration Tester Learning Path – TryHackMe** *(Sep 2024)*  
+📜 **Web Fundamentals Learning Path – TryHackMe** *(Sep 2024)*  
+
+---
+
+## 🔥 **Skills & Tools**
+🛠 **Technical Skills:** Penetration Testing, Cryptography, Web Exploitation, Digital Forensics  
+🖥 **Programming:** Python, Java, HTML/CSS  
+🔍 **Security Tools:** Wireshark, Metasploit, Burp Suite, Nmap, Autopsy  
+
+---
+
+## 📌 **Notable Projects**
+🔹 **[Payload Concealment & Clickjacking Exploitation Attack](https://github.com/zenix20/Payload-Concealment-and-Clickjacking-Exploitation)**  
+   - Designed and executed a cybersecurity lab demonstrating **clickjacking attacks** using **payload concealment techniques**.  
+   - Implemented **reverse shell, payload embedding, and post-exploitation** techniques.  
+
+🔹 **[Digital Forensics Investigation](https://github.com/zenix20/Digital-Forensics-Investigation)**  
+   - Conducted a comprehensive forensic analysis, covering **disk forensics, memory analysis, network forensics, and mobile/cloud investigations**.  
+   - Used **Wireshark, Autopsy, and forensic techniques** to trace **APT activity, encrypted transmissions, and email/web forensics**.  
+
+---
+
+## 🌟 **Community Involvement**
+📢 **Cyber Hactivators Club – Social Media Lead** *(March 2024 – Jan 2025)*  
+- Created engaging content on **cybersecurity trends, ethical hacking, and CTF events**.  
+- Managed community discussions, promotions, and cybersecurity awareness campaigns.  
+
+---
+
+## 📫 **Let's Connect!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/zainab-qureshi-43731a2a6/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zenix20)  
+📧 **Email:** [zainabqureshi620@gmail.com](mailto:zainabqureshi620@gmail.com)  
+
+---
+
+## 🎭 **Fun Facts About Me**
+♟ **Chess Enthusiast** | 📖 **Sci-Fi & Fantasy Literature Lover** | 🎨 **Art Fanatic**  
+
+---
+
+### **🔹 Looking for Collaboration?**
+🚀 **Open to cybersecurity research, ethical hacking projects, and content creation on AI & security!**  
+
+---
+
