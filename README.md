@@ -58,6 +58,16 @@
 
 ---
 
+## **TryHackMe Profile:**
+
+<p>
+  <a href="https://tryhackme.com/p/mugiwaraboy04">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/YourUsername.png" alt="TryHackMe Badge">
+  </a>
+</p>
+
+---
+
 ## 🎭 **Fun Facts About Me**
 ♟ **Chess Enthusiast** | 📖 **Sci-Fi & Fantasy Literature Lover** | 🎨 **Art Fanatic**  
 
