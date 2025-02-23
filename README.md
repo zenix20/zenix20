@@ -62,7 +62,7 @@
 
 <p>
   <a href="https://tryhackme.com/p/mugiwaraboy04">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/YourUsername.png" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mugiwaraboy04.png" alt="TryHackMe Badge">
   </a>
 </p>
 
