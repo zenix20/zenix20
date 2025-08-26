@@ -68,11 +68,6 @@
 
 ---
 
-## 🎭 **Fun Facts About Me**
-♟ **Chess Enthusiast** | 📖 **Sci-Fi & Fantasy Literature Lover** | 🎨 **Art Fanatic**  
-
----
-
 ### **🔹 Looking for Collaboration?**
 🚀 **Open to cybersecurity research, ethical hacking projects, and content creation on AI & security!**  
 
