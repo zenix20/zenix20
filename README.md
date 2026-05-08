@@ -28,17 +28,6 @@
 
 ---
 
-## 📌 **Notable Projects**
-🔹 **[Payload Concealment & Clickjacking Exploitation Attack](https://github.com/zenix20/Payload-Concealment-and-Clickjacking-Exploitation)**  
-   - Designed and executed a cybersecurity lab demonstrating **clickjacking attacks** using **payload concealment techniques**.  
-   - Implemented **reverse shell, payload embedding, and post-exploitation** techniques.  
-
-🔹 **[Digital Forensics Investigation](https://github.com/zenix20/Digital-Forensics-Investigation)**  
-   - Conducted a comprehensive forensic analysis, covering **disk forensics, memory analysis, network forensics, and mobile/cloud investigations**.  
-   - Used **Wireshark, Autopsy, and forensic techniques** to trace **APT activity, encrypted transmissions, and email/web forensics**.  
-
----
-
 ## 🌟 **Community Involvement**
 📢 **Cyber Hactivators Club – Social Media Lead** *(March 2024 – Jan 2025)*  
 - Created engaging content on **cybersecurity trends, ethical hacking, and CTF events**.  
